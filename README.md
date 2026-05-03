@@ -34,5 +34,8 @@ This project is a self-hosted file server built using a Raspberry Pi and CasaOS.
 1. Install Raspberry Pi OS on SD card
 2. Boot Raspberry Pi and connect to internet
 3. Install CasaOS using official script:
+4. Open CasaOS dashboard in browser
+5. Configure storage and file apps
+6. Start using your file server
    ```bash
    curl -fsSL https://get.casaos.io | bash
